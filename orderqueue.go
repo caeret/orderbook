@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/shopspring/decimal"
+	"github.com/caeret/decimal"
 )
 
 // OrderQueue stores and manage chain of orders

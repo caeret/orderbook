@@ -8,7 +8,7 @@ import (
 
 	rbtx "github.com/emirpasic/gods/examples/redblacktreeextended"
 	rbt "github.com/emirpasic/gods/trees/redblacktree"
-	"github.com/shopspring/decimal"
+	"github.com/caeret/decimal"
 )
 
 // OrderSide implements facade to operations with order queue

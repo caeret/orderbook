@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/shopspring/decimal"
+	"github.com/caeret/decimal"
 )
 
 // Order strores information about request

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shopspring/decimal"
+	"github.com/caeret/decimal"
 )
 
 func TestNewOrder(t *testing.T) {

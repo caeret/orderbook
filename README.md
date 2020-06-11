@@ -59,7 +59,7 @@ func (ob *OrderBook) CancelOrder(orderID string) *Order { ... }
 //      quantity - how much quantity you want to sell or buy
 //      price    - no more expensive (or cheaper) this price
 //      * to create new decimal number you should use decimal.New() func
-//        read more at https://github.com/shopspring/decimal
+//        read more at https://github.com/caeret/decimal
 // Return:
 //      error   - not nil if quantity (or price) is less or equal 0. Or if order with given ID is exists
 //      done    - not nil if your order produces ends of anoter order, this order will add to
@@ -123,7 +123,7 @@ partial - 1 order with price 110
 //      side     - what do you want to do (ob.Sell or ob.Buy)
 //      quantity - how much quantity you want to sell or buy
 //      * to create new decimal number you should use decimal.New() func
-//        read more at https://github.com/shopspring/decimal
+//        read more at https://github.com/caeret/decimal
 // Return:
 //      error        - not nil if price is less or equal 0
 //      done         - not nil if your market order produces ends of anoter orders, this order will add to

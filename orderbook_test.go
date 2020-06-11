@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/shopspring/decimal"
+	"github.com/caeret/decimal"
 )
 
 func addDepth(ob *OrderBook, prefix string, quantity decimal.Decimal) {
