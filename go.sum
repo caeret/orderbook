@@ -1,0 +1,4 @@
+github.com/caeret/decimal v0.0.0-20200520020220-c5f14716c496 h1:oYsPHLSVV3y9/gKz24WARdFqNmedqS/GEEMDSpIHXjs=
+github.com/caeret/decimal v0.0.0-20200520020220-c5f14716c496/go.mod h1:1v0EJ/EJaYVtzagDqin5Fp+vWXOBV85tdpcA7bU+nQw=
+github.com/emirpasic/gods v1.12.0 h1:QAUIPSaCu4G+POclxeqb3F+WPpdKqFGlw36+yOzGlrg=
+github.com/emirpasic/gods v1.12.0/go.mod h1:YfzfFFoVP/catgzJb4IKIqXjX78Ha8FMSDh3ymbK86o=
